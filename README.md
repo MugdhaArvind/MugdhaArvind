@@ -8,7 +8,6 @@ Hey there ! I am Mugdha Arvind , a passionate web developer specializing in PHP,
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MugdhaArvind&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MugdhaArvind &layout=compact&theme=radical)
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MugdhaArvind&theme=radical)
 
 ## 📫 Contact Me
