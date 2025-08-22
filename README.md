@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Hey there ! I am Mugdha Arvind , a passionate web developer specializing in PHP, MySQL, HTML, CSS, and JavaScript. I enjoy learning and exploring upcoming technologies. I hold great interest in Augmented & Virtual Reality and enjoy working on Unity and Blender.
+Hey there ! I am Mugdha Arvind , a passionate engineer with interest in Data Science, SQL, XR etc. I enjoy learning and exploring upcoming technologies like Augmented & Virtual Reality using tools like Unity and Blender.
 
 ## 🔧 Skills
 <h3 align="left">Languages and Tools:</h3>
